@@ -1,0 +1,57 @@
+body{
+    background-color: #FFF;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 72px;
+    text-transform: uppercase;
+    line-height: 90px;
+    width: 370px;
+    height: 355px;
+}
+
+p{
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: -1.2px;
+}
+
+a{
+    color: #FFF;
+    font-size: 22.5px;
+    font-weight: 500;
+    letter-spacing: -1.125px;
+    background-color: black;
+    padding: 12px 22px;
+    border-radius: 8px;
+}
+
+.hero{
+    border-radius: 40px;
+    background: #F4F6F5;
+    width: 1280px;
+    height: 640px;
+    padding: 50px 50px;
+    background-image: url(../imagenes/image.jpg);
+    background-repeat: no-repeat;
+    background-position: 700px 170px;
+}
+
+#lets{
+    width: 345.859;
+    height: 84.236;
+    transform: rotate(-1.981deg);
+    flex-shrink: 0;
+    background: #fff;
+    
+}
+
+#unique{
+    width: 368.961;
+    height: 88.3;
+    transform: rotate(-1.981deg);
+    flex-shrink: 0;
+    background: #ffed22;
+}
